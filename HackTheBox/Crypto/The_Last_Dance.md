@@ -66,6 +66,6 @@ Aplicând această proprietate:
 3. Aplicând XOR din nou cu textul clar cunoscut, obținem textul clar dorit.
 Deci primim flagul nostru:
 `b'HTB{und3r57AnD1n9_57R3aM_C1PH3R5_15_51mPl3_a5_7Ha7}'`
-![[xor_the_last_danc.png]]
+![[image/xor_the_last_danc.png]]
 Flagul final:
 `HTB{und3r57AnD1n9_57R3aM_C1PH3R5_15_51mPl3_a5_7Ha7}`
