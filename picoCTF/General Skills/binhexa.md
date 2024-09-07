@@ -19,6 +19,6 @@ Operația AND (&) compară fiecare bit al celor două numere și returnează:
     0 dacă unul sau ambii biți sunt 0.
 6. '>>' la fel ca și '<<' dar că în direcția inversă.
 
-![alt text](image.png)
+![alt text](image/bit_operation.png)
 
 Flagul este: `picoCTF{b1tw^3se_0p3eR@tI0n_su33essFuL_1367e2c6}`
