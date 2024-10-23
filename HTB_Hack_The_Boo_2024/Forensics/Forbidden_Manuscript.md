@@ -19,5 +19,6 @@ Verificam traficul `TCP`:
 ![alt text](../image/FM_2.png)
 
 `4854427b66307262316464336e5f6d346e753563723170375f31355f316e5f3768335f77316c647d`
+
 Flagul nostru este întrun format hex:
 După decriptarea acestui avem flagul: `HTB{f0rb1dd3n_m4nu5cr1p7_15_1n_7h3_w1ld}`
